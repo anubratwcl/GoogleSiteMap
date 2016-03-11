@@ -1,0 +1,16 @@
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\SiteMapMvc.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\SiteMapMvc.pdb
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\obj\Debug\SiteMapMvc.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\obj\Debug\SiteMapMvc.pdb
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.Helpers.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.Razor.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.Razor.dll
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.Helpers.xml
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.Razor.xml
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.xml
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\bin\Debug\System.Web.WebPages.Razor.xml
+C:\D\Anup\w2b2b\GoogleSitemapProject\GoogleSiteMap\SiteMapMvc\SiteMapMvc\obj\Debug\SiteMapMvc.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "CreateGoogleSiteMap";
+}
+
+<h2>CreateGoogleSiteMap</h2>
+ @using (Html.BeginForm("CreateSiteMap", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+<button type="submit" >Create Google SiteMap </button>
+ }

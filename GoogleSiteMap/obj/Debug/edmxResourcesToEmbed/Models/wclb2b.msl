@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_wclb2bModelStoreContainer" CdmEntityContainer="db_wclb2bEntities">
+    <EntitySetMapping Name="tblRoutes">
+      <EntityTypeMapping TypeName="db_wclb2bModel.tblRoute">
+        <MappingFragment StoreEntitySet="tblRoute">
+          <ScalarProperty Name="RoutId" ColumnName="RoutId" />
+          <ScalarProperty Name="PageType" ColumnName="PageType" />
+          <ScalarProperty Name="Slug" ColumnName="Slug" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
