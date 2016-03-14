@@ -15,6 +15,13 @@ namespace GoogleSiteMap.Controllers
         {
             return View();
         }
-
+        public ActionResult About()
+        {
+            return View();
+        }
+        public ActionResult Site()
+        {
+            return View();
+        }
     }
 }
